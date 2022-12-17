@@ -3,11 +3,11 @@
 
 Текст
 
-git config --global user.name tusya3107@icloud.com
+**git config --global user.name tusya3107@icloud.com**
 
- git config --global user.name Natalia
+>git config --global user.name Natalia
 
- git config --list - Показать все настройки
+ >>git config --list - Показать все настройки
 
  git init - 
 
@@ -15,4 +15,6 @@ git config --global user.name tusya3107@icloud.com
  git add read.md
 
  git commit -m "добавили файл"
+
+ добавили еще одно изменение! 
  
